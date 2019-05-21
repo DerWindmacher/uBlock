@@ -1,0 +1,9 @@
+I would like uBlock to add a whitelistmode for graphics, so when u
+activate the picker mode for it, all graphical elements have a
+green frame, if you click on a graphical element it will be shown
+as red frame and not be included in the whitelist this pickermode
+creates for the selected domain/site. That way the user can get rid
+of graphical elements that are hidden inside containers, that do
+have changing names or appearence. The only option to get rid of
+those so far is by blocking all graphics in uMatrix which destroys
+the webdesign significantly.
